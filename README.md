@@ -27,11 +27,11 @@ SnakeGame
 3. Navega al directorio `src`.
 4. Compila el proyecto utilizando el siguiente comando:
    ```
-   javac Main.java GamePanel.java Snake.java Food.java
+   javac -d bin src/game/Food.java src/game/GamePanel.java src/game/Snake.java src/main/SnakeGame.java
    ```
 5. Ejecuta el juego con el siguiente comando:
    ```
-   java Main
+   java -cp bin main.SnakeGame   
    ```
 
 ## Controles
