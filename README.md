@@ -21,6 +21,9 @@ SnakeGame
 
 1. Asegúrate de tener Java instalado en tu máquina.
 2. Clona este repositorio o descarga los archivos.
+```
+git clone 
+```
 3. Navega al directorio `src`.
 4. Compila el proyecto utilizando el siguiente comando:
    ```
