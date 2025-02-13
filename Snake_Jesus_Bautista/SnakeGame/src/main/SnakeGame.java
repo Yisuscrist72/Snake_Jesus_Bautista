@@ -10,6 +10,7 @@ public class SnakeGame {
             JFrame frame = new JFrame("Snake Game");
             frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             frame.setSize(800, 600);
+            frame.setResizable(false); // Deshabilitar la capacidad de cambiar el tamaño de la ventana
             frame.add(new GamePanel());
             frame.setVisible(true);
         });
