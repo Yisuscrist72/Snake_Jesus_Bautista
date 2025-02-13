@@ -24,7 +24,10 @@ SnakeGame
    ```
    git clone https://github.com/Yisuscrist72/Snake_Jesus_Bautista.git
    ```
-3. Navega al directorio `src`.
+3. Navega al directorio `SnakeGame`.
+   ```
+   cd Snake_Jesus_Bautista/SnakeGame
+   ```
 4. Compila el proyecto utilizando el siguiente comando:
    ```
    javac -d bin src/game/Food.java src/game/GamePanel.java src/game/Snake.java src/main/SnakeGame.java
