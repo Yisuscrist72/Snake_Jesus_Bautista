@@ -9,7 +9,8 @@ El proyecto tiene la siguiente estructura de archivos:
 ```
 EXPLORADOR
 ├── SNAKE_JESUS_BAUTISTA
- └── SnakeGame
+ └── Snake
+  └── SnakeGame
     ├── bin
     │   └── game
     │       ├── Food.class
