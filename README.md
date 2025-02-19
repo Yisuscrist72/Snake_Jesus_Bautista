@@ -7,14 +7,34 @@ Este proyecto es una implementación del clásico juego "Snake" utilizando Java 
 El proyecto tiene la siguiente estructura de archivos:
 
 ```
-SnakeGame
-├── src
-│   ├── Main.java        # Punto de entrada de la aplicación.
-│   ├── GamePanel.java   # Lógica del juego y renderizado.
-│   ├── Snake.java       # Clase que representa la serpiente.
-│   └── Food.java        # Clase que representa la comida.
-├── .gitignore           # Archivos y carpetas a ignorar por Git.
-└── README.md            # Documentación del proyecto.
+EXPLORADOR
+├── SNAKE_JESUS_BAUTISTA
+ └── SnakeGame
+    ├── bin
+    │   └── game
+    │       ├── Food.class
+    │       ├── GamePanel.class
+    │       ├── GamePanel$1.class
+    │       ├── GamePanel$2.class
+    │       └── Snake.class
+    ├── main
+    │   ├── Main.class
+    │   ├── SnakeGame.class
+    │   ├── Food.class
+    │   ├── GamePanel.class
+    │   ├── GamePanel$1.class
+    │   ├── Main.class
+    │   └── Snake.class
+    ├── resources
+    │   └── manzana.png
+    └── src
+        ├── game
+        │   ├── Food.java
+        │   ├── GamePanel.java
+        │   └── Snake.java
+        └── main
+            └── SnakeGame.java
+
 ```
 
 ## Instrucciones para Ejecutar el Juego
