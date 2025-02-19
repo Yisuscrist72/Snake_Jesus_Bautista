@@ -25,8 +25,6 @@ EXPLORADOR
     │   ├── GamePanel$1.class
     │   ├── Main.class
     │   └── Snake.class
-    ├── resources
-    │   └── manzana.png
     └── src
         ├── game
         │   ├── Food.java
