@@ -45,7 +45,7 @@ EXPLORADOR
    ```
 3. Navega al directorio `SnakeGame`.
    ```
-   cd Snake/SnakeGame
+   cd .\Snake_Jesus_Bautista\Snake_Jesus_Bautista\Snake\SnakeGame\
    ```
 4. Compila el proyecto utilizando el siguiente comando:
    ```
